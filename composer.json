@@ -1,5 +1,5 @@
 {
-  "name": "vojtasvoboda/oc-twigextensions-plugin",
+  "name": "codecycler/oc-twigextensions-plugin",
   "type": "october-plugin",
   "extra": {
     "installer-name": "twigextensions"
