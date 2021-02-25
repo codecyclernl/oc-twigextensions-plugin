@@ -16,7 +16,7 @@
   "require": {
     "php": ">=7.0",
     "twig/extra-bundle": "3.3.0",
-    "symfony/translation": "dev-master",
+    "symfony/translation": "4.4.0",
     "snilius/twig-sort-by-field": "dev-master"
   },
   "minimum-stability": "stable",
